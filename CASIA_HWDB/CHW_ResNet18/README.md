@@ -5,6 +5,6 @@ You can process the data according to the blog [Tensorflow and Chinese Handwritt
 
 We trained ResNet18 to extract features of all data and can control the pre-trained classes in **gx_folder.py**
 
-Source codes for ResNet and some other codes from https://github.com/jiweibo/ImageNeth and https://github.com/pytorch/examples/tree/master/imagenet
+Source codes for ResNet and some other codes from https://github.com/jiweibo/ImageNet and https://github.com/pytorch/examples/tree/master/imagenet
 
 
