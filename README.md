@@ -1,20 +1,23 @@
 # OWM (Orthogonal Weights Modification)
 - Code for paper *[Continual Learning of Context-dependent Processing in Neural Networks](https://www.nature.com/articles/s42256-019-0080-x)*. You can also get the free version from https://rdcu.be/bOaa3
 
-[![DOI](https://zenodo.org/badge/165808432.svg)](https://zenodo.org/badge/latestdoi/165808432)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3458626.svg)](https://doi.org/10.5281/zenodo.3458626)
 
 ## Requirements
+
+### If the environment configurations are different, the results may vary greatly  or even failing to work properly. You may need to adjust the code details according to your needs. 
+
 - Linux: Ubuntu 16.04
 
 - cuda9.0 & cudnn6.0
 
 - Python 3.5.4
 
+- torch 0.3.0 (pytorch)
+
 - tensorflow 1.5.0
 
 - tensorflow-gpu 1.4.0
-
-- torch 0.3.0 (pytorch)
 
 - torchvision 0.2.0
 
@@ -36,7 +39,7 @@
 
 - [Tensorflow](https://github.com/tensorflow/models)
 
-- [Tensorflow and Chinese Handwritten Chinese Character Recognition](http://python.jobbole.com/87509/)
+- [Tensorflow and Chinese Handwritten Chinese Character Recognition](https://www.jianshu.com/p/27efcf38c0c9)
 
 
 
